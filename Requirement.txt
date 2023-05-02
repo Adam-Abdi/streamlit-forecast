@@ -3,6 +3,7 @@ pandas
 scikit-learn
 seaborn
 statsmodels
-matplotlib==3.7.1
-streamlit==1.22.0
+matplotlib
+streamlit
+
 
